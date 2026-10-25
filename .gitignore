@@ -1,0 +1,4 @@
+*.pcap
+*.log
+*.iso
+.env
